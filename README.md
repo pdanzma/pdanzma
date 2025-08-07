@@ -45,12 +45,5 @@
 
 [![Discord](https://img.shields.io/badge/Discord-greyfivenine8244-5865F2?logo=discord&logoColor=white)](https://discord.com)
 
-## 📸 Gallery (Kagi Themes)
-
-[![Projekt: Kagi Dark Glassmorphism](./kagi-css/images/startpage.png)]
-(./kagi-css/README.md)
-Dunkles Theme für Kagi mit Addition eines Glassmorphismus-Effekts - Fokus auf Klarheit und Modernität
-
-[![Projekt: Kagi Corporate Style](./korp-net/images/startpage.png)]
-(./korp-net/README.md)
-High-contrast Theme für Kagi im Stil eines Corporate Rechners aus dem Spiel Cyberpunk 2077. 
+## 📸 TryHackMe Badge
+<img src="https://tryhackme-badges.s3.amazonaws.com/pdanzma.png" alt="My Image Badge" />
